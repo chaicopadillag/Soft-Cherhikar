@@ -1,0 +1,57 @@
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Entidad\bin\Debug\Entidad.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Entidad\obj\Debug\Entidad.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Entidad\obj\Debug\Entidad.pdb

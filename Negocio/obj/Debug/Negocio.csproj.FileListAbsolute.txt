@@ -1,0 +1,108 @@
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Datos.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Entidad.dll
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Datos.pdb
+C:\Users\Alumno\Desktop\Semana9\Grupo_No5\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Grupo_No5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\sistemas\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.dll
+C:\Users\Yandy\Desktop\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Sist_Taller_Mecanica\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\Linda\Desktop\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+F:\Proyecto_Final_TallerMecanico\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+F:\5NCB\Desarrollo de software\Proyecto_Final\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carmen\Desktop\Soft Cherhikcar V1.0\Negocio\obj\Debug\Negocio.pdb
