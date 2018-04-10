@@ -1,16 +1,15 @@
-# SISTEMA DE TALLER MECANICA
-## Soft-Cherhikar 
+# SISTEMA DE TALLER MECANICA ## Soft-Cherhikar 
     OBJETIVO GENERAL	
-##### IMPLEMENTACION DE UN SISTEMA DE GESTION DE COBRO SERVICIOS PARA EL CONTROL Y LA CALIDAD DEL TALLER MECANICO AUTOMOTRIZ.
-## OBJETIVOS ESPECÍFICOS	
+##IMPLEMENTACION DE UN SISTEMA DE GESTION DE COBRO SERVICIOS PARA EL CONTROL Y LA CALIDAD DEL TALLER MECANICO AUTOMOTRIZ.
+### OBJETIVOS ESPECÍFICOS	
 
 1.	ANALISIS Y DISEÑO DEL SISTEMA DE GESTION DE COBRO DE SERVICIOS para determinar la calidad de atención del taller mecánico.
 
 2. DESARROLLO E IMPLEMENTACION DEL SISTEMA DE GESTION DE COBRO DE SERVICIOS para determinar EL CONTROL DE PAGOS POR SERVICIO del taller mecánico.
 
-    ## BREVE DESCRIPCIÓN DEL PROYECTO
+### BREVE DESCRIPCIÓN DEL PROYECTO
 
-El sistema que estamos desarrollando será más eficaz y garantizado, en lo cual brindará el servicio de atención al cliente, ventas de repuestos, mantenimiento al vehículo, y otros para satisfacer las necesidades del cliente. 
+El sistema que estamos desarrollado es más eficaz y garantizado, en lo cual brindará el servicio de atención al cliente, ventas de repuestos, mantenimiento al vehículo, y otros para satisfacer las necesidades del cliente. 
 También el sistema cuenta con una administrativa, ellos están encargados de hacer el manejo general de nuestro sistema del taller mecánico, llevar los informes, seguridad del sistema, registro del personal y registro de servicios. 
 1. El cliente puede realizar reserva de mantenimiento del vehículo vía telefónica o personalmente, y se registrara la reserva de acuerdo a las preferencias del cliente como la fecha de mantenimiento y la fecha de reserva de mantenimiento del vehículo y tipo de mantenimiento para lo cual esto está registrado en el sistema por el personal de la empresa.
  
